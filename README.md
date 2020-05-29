@@ -1,10 +1,10 @@
 # practice_prs
 
-##Explanatory heading
+##First Heading
 * ah one
 * and a two
 * and a three
 
-##Another heading
+##Another Heading
 1. element one
 1. element two
